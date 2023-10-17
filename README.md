@@ -1,2 +1,21 @@
-# journal_jiis
-Samples for JIIS Journal
+# Enhancing the Fairness of Offensive Memes Detection Models by Mitigating Unintended Political Bias
+
+### Dataset Description:
+
+**Dataset Folder Name:** ```./sample_data```
+
+**Dataset csv file:** ``political_offensive.csv``` 
+
+We have only provided the sample data. After acceptance of the paper, we will provide the whole dataset.
+
+**Name:** Name of data sample
+
+**Text:** OCR extracted textual part of the meme
+
+**Offensive:** {0,1} viz. {Non-Offensive, Offensive } respectively.
+
+**Political:** {0,1} viz. {Non-Political, Political} respectively.
+
+### Proposed paper code:
+
+```JIIS_off_pol.py```
