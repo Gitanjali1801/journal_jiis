@@ -8,6 +8,8 @@
 
 **Dataset csv file:** ``political_offensive.csv``` 
 
+**Text Replaced Samples** ``text_replaced_meme.csv``
+
 We have only provided the sample data. After acceptance of the paper, we will provide the whole dataset.
 
 **Name:** Name of data sample
