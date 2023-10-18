@@ -6,7 +6,7 @@
 
 **Replaced Sample Memes** ```./replaced_images_samples```
 
-**Dataset csv file:** ``political_offensive.csv``` 
+**Dataset csv file:** ```political_offensive.csv``` 
 
 **Text Replaced Samples** ``text_replaced_meme.csv``
 
@@ -22,4 +22,4 @@ We have only provided the sample data. After acceptance of the paper, we will pr
 
 ### Proposed paper code:
 
-```JIIS_off_pol.py```
+```JIIS_code.py```
